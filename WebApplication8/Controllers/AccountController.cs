@@ -20,6 +20,7 @@ namespace WebApplication8.Controllers
 
         public AccountController()
         {
+            //"ttt"
         }
 
         public AccountController(ApplicationUserManager userManager, ApplicationSignInManager signInManager )
