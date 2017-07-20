@@ -20,7 +20,7 @@ namespace WebApplication8.Controllers
 
         public AccountController()
         {
-            //"ttt" asdf
+            //"ttt" asdf qwerwer
         }
 
         public AccountController(ApplicationUserManager userManager, ApplicationSignInManager signInManager )
